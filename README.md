@@ -2,9 +2,9 @@
 
 ## Directory Structure
 ----------------------
-### The repositoy contains the file required to create the Spam detector and App deployment code.
-### The "final-project.ipynb" file is a notebook which you can open and run using colab (recommended).
-### Other files are needed to run the app.
+> 1. ### The repositoy contains the file required to create the Spam detector and App deployment code.
+> 2. ### The "final-project.ipynb" file is a notebook which you can open and run using colab (recommended).
+> 3. ### Other files are needed to run the app.
 
 ## How to run the code
 1. Clone/download the repository
@@ -20,3 +20,5 @@
 ## Video tutorial
 -----------------
 ### We have created video tutorial to help you out understand the overall flow of the project
+1. Part-1 of the tutorial is present [here](https://drive.google.com/file/d/1l04yRyLA4woOLRANHK3hPmZOELgLjgCZ/view?usp=sharing)
+2. Part-2 of the tutorial is present [here](https://drive.google.com/file/d/1egitQWJ-8cD2dd9BYbfXCH9YYPNaz_ue/view?usp=sharing)
