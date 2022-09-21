@@ -1,7 +1,7 @@
 # This is a sample project for Spam detection in messages
 
 ## Directory Structure
-----------------------
+
 > 1. ### The repositoy contains the file required to create the Spam detector and App deployment code.
 > 2. ### The "final-project.ipynb" file is a notebook which you can open and run using colab (recommended).
 > 3. ### Other files are needed to run the app.
